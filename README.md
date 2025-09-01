@@ -135,10 +135,12 @@ fi
 
 
 ### Part Numbers
+```
 ┌─────────────┬─────────────┬────────────────┐
 │ PART NUMBER │ THEME NAME  │ DESCRIPTION    │
 ├─────────────┼─────────────┼────────────────┤
 │ 5201-010    │ RETICLE     │ Reticle scheme │
 └─────────────┴─────────────┴────────────────┘
-
+```
 ### Screenshot
+<img width="600" alt="USGC-RETICLE-IT" src="https://github.com/user-attachments/assets/b3fcf389-ae20-438f-903a-1e0220ab7369" />
