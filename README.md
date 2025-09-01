@@ -107,3 +107,12 @@ Here is the updated Markdown table with all text in code format and without bold
 | `HIGHK`<br>`USGC-HIGHK-ST`<br>`PN#: 5200-010`<br><img width="460" alt="HIGHK" src="https://github.com/user-attachments/assets/fe0ebfa7-2725-4eb0-bd67-5d316daa8a63" /> | `RETICLE`<br>`USGC-RETICLE-ST`<br>`PN#: 5200-020`<br><img width="460" alt="RETICLE" src="https://github.com/user-attachments/assets/d5c16dec-2374-4dc3-8e61-d756eb345b65" /> |
 | `POLYIMIDE`<br>`USGC-POLYIMIDE-ST`<br>`PN#: 5200-030`<br><img width="460" alt="POLYIMIDE" src="https://github.com/user-attachments/assets/05e4576a-6006-4f01-9a08-a5b54e05d21d" /> | `EPITAXY`<br>`USGC-EPITAXY-ST`<br>`PN#: 5200-040`<br><img width="460" alt="EPITAXY" src="https://github.com/user-attachments/assets/729ea77b-f101-4e22-988d-7f4d404dc37e" /> |
 | `METALGATE`<br>`USGC-METALGATE-ST`<br>`PN#: 5200-050`<br><img width="460" alt="METALGATE" src="https://github.com/user-attachments/assets/aa7d4900-6621-4c0d-a989-3c555ebdf1ee" /> |                                                                                                                                                                              |
+
+
+### iTerm Color Schemes
+
+┌─────────────┬─────────────┬────────────────┐
+│ PART NUMBER │ THEME NAME  │ DESCRIPTION    │
+├─────────────┼─────────────┼────────────────┤
+│ 5201-010    │ RETICLE     │ Reticle scheme │
+└─────────────┴─────────────┴────────────────┘
