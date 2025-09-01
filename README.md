@@ -109,10 +109,36 @@ Here is the updated Markdown table with all text in code format and without bold
 | `METALGATE`<br>`USGC-METALGATE-ST`<br>`PN#: 5200-050`<br><img width="460" alt="METALGATE" src="https://github.com/user-attachments/assets/aa7d4900-6621-4c0d-a989-3c555ebdf1ee" /> |                                                                                                                                                                              |
 
 
-### iTerm Color Schemes
+# USGC iTerm Color Schemes
 
+For macOS iTerm only.
+
+### Instructions
+
+- Settings (⌘ + ,) 
+- Profiles Tab
+- Select a profile in the left column
+- Colors Tab
+- Color Presets... > Import...
+- Select the `.itermcolors` file
+- Color Presets... > Select the imported scheme ("USGC-<THEME NAME>-IT")
+
+### USGC Bash Prompt
+```
+# USGC BASH PROMPT
+if [[ $- == *i* ]]; then
+  export CLICOLOR=1
+  export LSCOLORS=GxFxCxDxBxegedabagaced
+  export PS1="\[$(tput setaf 7)\]❬\h❭ \[$(tput setaf 2)\]\W\[$(tput setaf 1)\] ●\[$(tput sgr0)\] "
+fi
+```
+
+
+### Part Numbers
 ┌─────────────┬─────────────┬────────────────┐
 │ PART NUMBER │ THEME NAME  │ DESCRIPTION    │
 ├─────────────┼─────────────┼────────────────┤
 │ 5201-010    │ RETICLE     │ Reticle scheme │
 └─────────────┴─────────────┴────────────────┘
+
+### Screenshot

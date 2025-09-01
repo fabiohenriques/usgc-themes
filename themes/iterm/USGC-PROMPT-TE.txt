@@ -1,4 +1,4 @@
-# PROMPT SETUP
+# USGC BASH PROMPT
 if [[ $- == *i* ]]; then
   export CLICOLOR=1
   export LSCOLORS=GxFxCxDxBxegedabagaced
