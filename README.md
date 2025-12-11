@@ -133,6 +133,9 @@ if [[ $- == *i* ]]; then
 fi
 ```
 
+# USGC Ghostty Color Scheme
+
+On macOS add the theme file in ~/.config/ghostty/themes or Ghostty.app/Contents/Resources/ghostty/themes directory.
 
 ### Part Numbers
 ```
