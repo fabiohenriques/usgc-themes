@@ -135,7 +135,15 @@ fi
 
 # USGC Ghostty Color Scheme
 
-On macOS add the theme file in ~/.config/ghostty/themes or Ghostty.app/Contents/Resources/ghostty/themes directory.
+For macOS Ghostty only.
+
+### Instructions
+
+- Save the theme file 'USGC-RETICLE-GH' in ~/.config/ghostty/themes
+- Settings (⌘ + ,) 
+- 'theme = USGC-RETICLE-GH'
+- Save (⌘ + s) 
+- Restart Ghostty
 
 ### Part Numbers
 ```
